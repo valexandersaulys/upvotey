@@ -42,4 +42,5 @@ gem 'spring',        group: :development
 
 # My Gem Additions
 gem 'devise', '~> 3.3.0'
-
+gem 'bootstrap-sass', '~> 3.3.1.0'
+gem 'autoprefixer-rails'
